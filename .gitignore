@@ -1,0 +1,16 @@
+# Ignore Robot Framework report and log files
+*.html
+*.xml
+*.log
+
+# Ignore output directories
+output/
+logs/
+
+# Ignore pycache and temporary files
+__pycache__/
+*.pyc
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
